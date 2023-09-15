@@ -81,6 +81,3 @@
 <br>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-<br>
-
-![Snake animation](https://github.com/Sagar-Mondal/Sagar-Mondal/blob/output/github-contribution-grid-snake.svg)
