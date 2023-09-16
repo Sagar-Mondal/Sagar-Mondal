@@ -1,4 +1,6 @@
-<h1 align="left"> < Hello Coders🚀, I'm Sagar Mondal<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sagar+Mondal!;" />
+</h1>
 <img align="right" src="https://cdn.dribbble.com/users/1818132/screenshots/4863343/media/3251fb0614b36dd4c2726fb1ed37c9a7.gif" alt="ria-monga" height="400" />
 
 🔵🟡🔴🟢🟠
@@ -82,4 +84,3 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
- ![snake gif](https://github.com/Sagar-Mondal/Sagar-Mondal/blob/output/github-contribution-grid-snake.gif)
