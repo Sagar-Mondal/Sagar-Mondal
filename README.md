@@ -75,11 +75,12 @@
 <br />
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sagar-Mondal&theme=radical&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Mondal&theme=radical&show_icons=true" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sagar-Mondal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-  
-<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=Sagar-Mondal&theme=react-dark&hide_border=true) -->
+<br>
+<div align="center">
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sagar-Mondal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 <br>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
