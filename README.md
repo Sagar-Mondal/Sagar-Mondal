@@ -76,6 +76,7 @@
 
 <div align="center">
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sagar-Mondal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Mondal&theme=radical&show_icons=true" />
 </div>
 <br>
 <div align="center">
