@@ -21,6 +21,8 @@
 🔵  I'm a lifelong learner who's currently taking a deep dive into a couple of exciting areas:
 <br />&emsp;🚀 Sharpening my problem-solving skills through rigorous DSA practice
   <br />&emsp;🚀 Exploring the thrilling world of competitive programming
+  <br />
+  [![An image of @sagarmondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagarmondal)](https://holopin.io/@sagarmondal)
 
 ### My Tech Stack:
 #### Machine Learning & Deep Learning stack:
