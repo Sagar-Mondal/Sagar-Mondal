@@ -4,7 +4,9 @@
 <img align="right" src="https://cdn.dribbble.com/users/1818132/screenshots/4863343/media/3251fb0614b36dd4c2726fb1ed37c9a7.gif" alt="ria-monga" height="400" />
 
 🔵🟡🔴🟢🟠
-  <br /><br /><img src="https://badges.pufler.dev/visits/Sagar-Mondal/Sagar-Mondal">
+  <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Sagar-Mondal&label=Views&color=blue&style=plastic" alt="Sagar-Mondal" />
+ </p>
 <h3> 🔵Pursuing B.Tech. in Computer Science and Engineering - 3rd Year🎓.<br /> I'm a lifelong learner who thrives on curiosity and innovation. 💡 Currently, I'm diving into the exciting world of competitive programming 🏆 while also delving into the realms of AI/ML 🤖 and web development 🌐. 🚀 I'm always on the lookout for chances to put my skills to the test and expand my knowledge. 🌈 Creativity and innovation fuel my passion, and I'm eager to continue my journey in computer science while pursuing my B.Tech. 🎓 I'm excited about networking with industry professionals 🤝 and exploring ways to contribute to cutting-edge solutions. Let's connect and create something amazing together! 🚀🌟
 <p align="left">
   <p align = "left"><h3 align="left">🟠YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
